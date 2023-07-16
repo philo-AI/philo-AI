@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @philo-AI AKA philo
 - 👀 I’m into coding
 - 🌱 I’m doing python manly with a bit of html, css and JS
-- 💞️ I’m looking to collaborate in python
+- 💞️ I’m looking to collaborate on AI or back end projects involving python
 - 📫 How to reach me just mail me at philo8933@gmail.com
 
 <!---
